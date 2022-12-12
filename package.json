@@ -1,0 +1,14 @@
+{
+  "name": "magnifier",
+  "version": "1.0.0",
+  "description": "magnify",
+  "main": "main.js",
+  "author": "Lionel",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^20.1.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}

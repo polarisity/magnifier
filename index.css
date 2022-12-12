@@ -1,0 +1,11 @@
+body {
+  -webkit-app-region: drag;
+}
+
+canvas {
+  border-style: solid;
+  border-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-color: grey;
+}
